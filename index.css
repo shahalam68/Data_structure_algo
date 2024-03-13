@@ -1,0 +1,9 @@
+.header img{
+    width: 200px;
+    height: auto;
+}
+.header {
+    display: grid;
+    grid-template-columns:1fr;
+    column-gap: 1000px;
+}
